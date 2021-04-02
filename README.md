@@ -1,6 +1,6 @@
-# ***Application de gestion de cabinet médical***
+# ***Application de gestion de cabinet médical*** :point_down:
 
-#### **Contributeurs :**
+#### **Contributeurs :** :point_down:
 Ce projet a été réalisé sous la collaboration de :
   
   * [Ayoub HMADOUCH ](https://github.com/AyoubHmadouch)
@@ -8,15 +8,15 @@ Ce projet a été réalisé sous la collaboration de :
   * [FOUAD EL FAKHORI](https://github.com/fFakhori)
   * [Abderahmane KOTBI](https://github.com/abdorah)
 
-#### **Supervisé par** 
+#### **Supervisé par** :point_down:
 * Pr. Mahmoud EL HAMLAOUI
 
 ---
-### **Objectif du projet:**
+### **Objectif du projet:** :point_down:
 Le but de ce projet est de concevoir et de développer une application qui permet la gestion d'un cabinet médical(Prise des rendez-vous en ligne,gestion des patients...),en utilisant la plateforme de développement JAVA EE.
 
 ---
-### **Outils de développement**
+### **Outils de développement** :point_down:
 
 <table>
     <thead>
@@ -51,7 +51,7 @@ Le but de ce projet est de concevoir et de développer une application qui perme
 ---
 
 
-### **Interfaces de l'application**
+### **Interfaces de l'application** :point_down:
 * **Accueil**
   
  ![](screenshots/accueil.png)
